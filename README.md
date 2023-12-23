@@ -29,5 +29,5 @@ To deploy this project run
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a full stack developer with a keen interest in new technologies and I never shy away from new challenges. You never know what the fast-paced world of technology has to offer you every time you learn something new, so things are always pretty exciting!
 
